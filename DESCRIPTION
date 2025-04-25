@@ -1,0 +1,8 @@
+Package: repo2dockerProject
+Type: Package
+Title: Executable OSF Environment
+Version: 1.0
+Authors@R: c(person("Maintainer", "Example", email = "maintainer@example.com", role = c("aut", "cre")))
+Description: Automatically generated DESCRIPTION file for Repo2Docker.
+License: See license and authorship information at https://osf.io/xjm6z/
+Imports: BDgraph, BGGM, HDInterval, IsingSampler, MASS, bgms, devtools, dplyr, easybgm, igraph, jtools, mice, pacman, parallel, qgraph, rbinnet, readr, remotes, tidyverse, 
