@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/xjm6z_src/Annotated Analysis Script")' >> /home/jovyan/.Rprofile
